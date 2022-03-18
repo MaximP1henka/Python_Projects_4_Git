@@ -1,1 +1,8 @@
-'.idea'
+.idea
+rm '.idea/.gitignore'
+rm '.idea/Python_Projects_4_Git.iml'
+rm '.idea/inspectionProfiles/Project_Default.xml'
+rm '.idea/inspectionProfiles/profiles_settings.xml'
+rm '.idea/misc.xml'
+rm '.idea/modules.xml'
+rm '.idea/vcs.xml'
